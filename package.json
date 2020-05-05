@@ -1,0 +1,18 @@
+{
+  "name": "lobby-creator",
+  "version": "1.0.0",
+  "description": "A script to create GamersClub rooms instantlly",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "moransantiago",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
